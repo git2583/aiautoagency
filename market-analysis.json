@@ -1,0 +1,185 @@
+{
+  "market_analysis": {
+    "ideal_customer_profile": {
+      "segment": "Korean SMBs (소규모 및 중소 기업)",
+      "employee_count": "50-500 employees",
+      "annual_revenue": "500M - 50B KRW",
+      "industries": [
+        "E-commerce / Retail",
+        "SaaS / Software",
+        "Financial Services (FinTech)",
+        "Marketing / Advertising Agencies",
+        "Manufacturing / Supply Chain",
+        "Logistics / Fulfillment",
+        "Real Estate / Property Management"
+      ],
+      "company_stage": ["Growth Stage", "Series A-B funded startups"],
+      "characteristics": {
+        "pain_points": [
+          "Manual, repetitive marketing tasks drain team bandwidth",
+          "Fragmented customer data across CRM, email, web analytics",
+          "No centralized lead scoring or qualification process",
+          "Limited budget for enterprise software—need cost-effective solutions",
+          "High customer churn due to poor customer experience",
+          "Can't respond quickly to customer inquiries",
+          "Difficult to measure marketing ROI",
+          "Scaling operations without hiring big teams"
+        ],
+        "decision_factors": [
+          "Total cost of ownership (licensing + implementation + training)",
+          "Time-to-value (quick wins within 2-3 months)",
+          "Local language support and compliance (Korean)",
+          "Ease of integration with existing systems",
+          "Post-launch support and training quality"
+        ],
+        "budget": "30M - 300M KRW per project (annual or project-based)",
+        "decision_makers": [
+          "Chief Marketing Officer / Growth Lead",
+          "Operations Manager",
+          "CTO / Tech Lead",
+          "CEO (for final approval)"
+        ]
+      }
+    },
+    "customer_problems": {
+      "marketing_automation": {
+        "problem": "Marketing team manually manages email campaigns, social, web events—no workflow automation",
+        "symptoms": [
+          "Email list unmanaged; low open/click rates",
+          "Leads sit in inbox instead of flowing through qualification process",
+          "Same manual outreach repeated every month",
+          "Campaign performance buried in spreadsheets"
+        ],
+        "job_to_be_done": "Automate lead capture → scoring → nurture → handoff to sales with measurable results",
+        "value_delivered": [
+          "50-70% reduction in marketing operations time",
+          "3-5x improvement in lead response time",
+          "20-40% increase in qualified leads per month",
+          "Departmental ROI visible in 60-90 days"
+        ]
+      },
+      "data_pipelines": {
+        "problem": "Customer and business data lives in silos—CRM, email, web analytics, sales tools don't talk",
+        "symptoms": [
+          "Reports created manually in Excel from multiple sources",
+          "Single source of truth doesn't exist",
+          "Delays in decision-making due to stale data",
+          "Customer 360 view impossible—team doesn't know full customer journey"
+        ],
+        "job_to_be_done": "Unify all data sources → clean & enrich → accessible dashboard for operations, marketing, sales",
+        "value_delivered": [
+          "Unified customer view across all touchpoints",
+          "Real-time dashboards replace monthly reports",
+          "Data-driven decisions reduce guesswork by 60%+",
+          "Better customer segmentation for targeted campaigns"
+        ]
+      },
+      "ai_chatbot": {
+        "problem": "Customer support team overwhelmed with repetitive questions; long response times hurt satisfaction",
+        "symptoms": [
+          "Support backlog growing every week",
+          "High response time (6-24 hours) to common questions",
+          "After-hours support impossible—customers feel ignored",
+          "Team frustrated with repetitive work"
+        ],
+        "job_to_be_done": "Deploy AI chatbot to handle 60-80% of FAQ, routine inquiries, and escalate complex issues to humans smartly",
+        "value_delivered": [
+          "24/7 customer support coverage (no overnight gaps)",
+          "Response time reduced from hours to seconds",
+          "Customer satisfaction score increases 15-25%",
+          "Support team freed up for complex issues and strategy"
+        ]
+      }
+    },
+    "customer_search_keywords": {
+      "marketing_automation": {
+        "korean_keywords": [
+          "마케팅 자동화 솔루션",
+          "리드 스코링 시스템",
+          "이메일 자동화 플랫폼",
+          "한국 CRM 자동화",
+          "고객 여정 자동화"
+        ],
+        "english_keywords_korean_context": [
+          "Marketing automation for SMB Korea",
+          "Lead nurturing workflow setup",
+          "Email campaign automation platform Korean",
+          "Marketing operations tool for growing companies",
+          "Customer journey automation software"
+        ],
+        "search_intent": "Looking for tools or agencies to automate their marketing workflows",
+        "search_volume": "High (1K-5K monthly searches in Korea)"
+      },
+      "data_pipelines": {
+        "korean_keywords": [
+          "데이터 파이프라인 구축",
+          "ETL 솔루션 한국",
+          "데이터 통합 서비스",
+          "고객 데이터 통합",
+          "대시보드 구축 서비스"
+        ],
+        "english_keywords_korean_context": [
+          "Data pipeline development Korea",
+          "ETL engineering service Korean companies",
+          "Data warehouse setup SMB",
+          "Customer data integration platform",
+          "Business intelligence dashboard setup"
+        ],
+        "search_intent": "Looking for data infrastructure help or outsourced data engineering",
+        "search_volume": "Medium (500-2K monthly searches in Korea)"
+      },
+      "ai_chatbot": {
+        "korean_keywords": [
+          "AI 챗봇 구축",
+          "한국어 챗봇 개발",
+          "고객 AI 챗봇",
+          "챗봇 구현 서비스",
+          "AI 상담 봇",
+          "카카오톡 챗봇",
+          "웹사이트 챗봇"
+        ],
+        "english_keywords_korean_context": [
+          "AI chatbot development Korea",
+          "Korean language chatbot builder",
+          "Conversational AI for customer service",
+          "Chatbot implementation consulting",
+          "KakaoTalk chatbot development",
+          "Website chatbot setup"
+        ],
+        "search_intent": "Looking for chatbot builders or AI customer service solutions",
+        "search_volume": "High (2K-8K monthly searches in Korea)"
+      }
+    },
+    "outbound_targeting": {
+      "top_industries_to_target": [
+        {
+          "industry": "E-commerce",
+          "why": "High customer volume, constant marketing/support needs, strong ROI case for automation",
+          "company_examples": ["Coupang-adjacent", "Fashion/Retail marketplaces", "Food delivery platforms"]
+        },
+        {
+          "industry": "SaaS / Software",
+          "why": "Data-driven mindset, quick to adopt automation, viral growth potential from SDR automation",
+          "company_examples": ["Korean FinTech startups", "B2B SaaS marketplaces"]
+        },
+        {
+          "industry": "FinTech",
+          "why": "Rapid scaling, compliance-conscious (data pipelines), high customer lifetime value",
+          "company_examples": ["Loan platforms", "Payment processors", "Insurance tech"]
+        },
+        {
+          "industry": "Marketing Agencies",
+          "why": "Agencies need automation for clients, re-sellable services, consistent revenue",
+          "company_examples": ["Performance marketing agencies", "Digital transformation consultants"]
+        }
+      ],
+      "outbound_channels": [
+        "LinkedIn (B2B focus, targeting Korean professionals)",
+        "Naver / Korean tech forums (where Korean SMBs research tools)",
+        "Startup networks / accelerator alumni lists",
+        "Existing CRM tool user communities",
+        "Direct cold outreach via corporate directories"
+      ]
+    }
+  }
+}
