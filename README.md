@@ -3,7 +3,7 @@
 마케팅 자동화, 데이터 파이프라인, AI 챗봇으로 50-500명 규모의 기업 운영을 2-3배 가속화합니다.
 
 ## 📦 Contents
-
+1
 - `market-analysis.json` - 이상적 고객 프로필, 문제점, 검색 키워드 분석
 - `copy.md` - 랜딩페이지 전체 카피 (Hero, Problem, Services, Testimonials, CTA)
 - `.github/agents/service-delivery.agent.md` - VS Code 커스텀 에이전트 (프로젝트 스코핑 자동화)
